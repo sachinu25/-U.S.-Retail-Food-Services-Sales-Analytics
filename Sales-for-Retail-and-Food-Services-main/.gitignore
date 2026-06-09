@@ -1,0 +1,75 @@
+# ============================================
+# .gitignore — SQL & Data Analytics Project
+# ============================================
+
+# ---------- OS-generated ----------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ---------- IDE / Editor ----------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# ---------- MySQL ----------
+*.sql.bak
+*.sql~
+*.err
+*.pid
+*.log
+
+# ---------- Data files (large) ----------
+# Uncomment these if you don't want to track large data files
+# *.csv
+# *.xlsx
+# *.xls
+# data/*.csv
+
+# ---------- Temp / Scratch ----------
+tmp/
+temp/
+scratch/
+*.tmp
+*.temp
+
+# ---------- Python (if using scripts) ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+
+# ---------- Jupyter ----------
+.ipynb_checkpoints/
+
+# ---------- Credentials ----------
+.env
+.env.local
+*.pem
+*.key
+credentials.json
+.cookies.json/
+
+# ---------- Archives ----------
+*.zip
+*.tar.gz
+*.rar
+*.7z
