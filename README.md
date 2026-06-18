@@ -7,7 +7,7 @@
   ![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
   ![License](https://img.shields.io/badge/License-Apache_2.0-green?style=for-the-badge)
 
-  <p align="center">
+  <p align="center"> 
     <strong>An Industry-Grade End-to-End SQL Analytics Pipeline</strong>
     <br />
     Translating 13 years of U.S. Census Bureau retail trade data (9,048 records) into actionable executive insights.
