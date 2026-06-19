@@ -7,7 +7,7 @@ This project follows a structured SQL analytics pipeline pattern, transforming r
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                     DATA SOURCE                             │
-│            U.S. Census Bureau — Monthly Retail               │
+│            U.S. Census Bureau — Monthly Retail               
 │                  Trade Survey (2010-2022)                    │
 └─────────────────────┬───────────────────────────────────────┘
                       │
